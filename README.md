@@ -33,17 +33,22 @@ For this project, designing a differential input single end amplifiler with one 
 ### 3.Unity-gain bandwidth (GBW = 10.2MHz)
 ![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
 
-### 4.Phase Margin (PM = 61.52°)
+### 4.Phase Margin (PM => 180°-118.478° = 61.522°)
 ![PM](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/pm.PNG)
 
-### 5.Common Mode Rejection Ratio (CMRR = 87.57dB)
+### 5.Common Mode Rejection Ratio (CMRR => Avd/Acm = 86.87dB-(-0.699dB) = 87.57dB)
 ![CMRR](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/CMRR.PNG)
 
-### 6.Unity-gain bandwidth (GBW = 10.2MHz)
-![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
+### 6.Output Voltage Swing Range (OVSR => Voutput(max)-Voutput(min) = 0.463-(-0.844) = 1.307V)
+![OVSR](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/aad4af1d1bff20c8aca1b00f2dd91131c5a924a0/Capture.PNG)
 
-### 7.Unity-gain bandwidth (GBW = 10.2MHz)
-![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
+### 7.Average Slew Rate(SR => ((SR+) + (SR-)) /2 = 8.1471+9.6732 = 8.907 V/us )
+
+### 7.1 SR(rise)
+![SR1](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/84fc5c3ef9711193c1732cd0a78447f9ef0e2ec9/TR1.PNG)
+
+### 7.2 SR(fall)
+![SR2](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/84fc5c3ef9711193c1732cd0a78447f9ef0e2ec9/TR2.PNG)
 
 
 
