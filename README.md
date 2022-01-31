@@ -44,10 +44,10 @@ For this project, designing a differential input single end amplifiler with one 
 
 ### 7.Average Slew Rate(SR => ((SR+) + (SR-)) /2 = 8.1471+9.6732 = 8.907 V/us )
 
-### 7.1 SR(rise)
+###  SR(rise state)
 ![SR1](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/84fc5c3ef9711193c1732cd0a78447f9ef0e2ec9/TR1.PNG)
 
-### 7.2 SR(fall)
+###  SR(fall state)
 ![SR2](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/84fc5c3ef9711193c1732cd0a78447f9ef0e2ec9/TR2.PNG)
 
 
