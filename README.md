@@ -24,3 +24,31 @@ For this project, designing a differential input single end amplifiler with one 
 |Pdiss (Power dissipation)| ≤ 0.5 mW (2V) | 0.125mW(2V)|
 
 
+### 1.Circuit Schematic
+![schematic](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/region.PNG)
+
+### 2.Differential Voltage Gain (Avd = 86.87dB)
+![Avd](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/Avd.PNG)
+
+### 3.Unity-gain bandwidth (GBW = 10.2MHz)
+![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
+
+### 4.Phase Margin (PM = 61.52°)
+![PM](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/pm.PNG)
+
+### 5.Common Mode Rejection Ratio (CMRR = 87.57dB)
+![CMRR](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/CMRR.PNG)
+
+### 6.Unity-gain bandwidth (GBW = 10.2MHz)
+![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
+
+### 7.Unity-gain bandwidth (GBW = 10.2MHz)
+![GBW](https://github.com/yichienchiang/85dB-Differential-input-single-ended-amplifier/blob/8223ba9958d5600629535535f920c25d80b86b20/GBW.PNG)
+
+
+
+
+
+
+
+
